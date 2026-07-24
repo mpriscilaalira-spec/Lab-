@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Contatos Supabase",
+  "description": "Aplicativo para cadastro, listagem, busca e gerenciamento de contatos (nome, telefone, e-mail e endereço) com integração ao Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
